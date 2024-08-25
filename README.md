@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ndifq2iuduvma7e7?svg=true)](https://ci.appveyor.com/project/lmartemyanova/hw-test-js)
